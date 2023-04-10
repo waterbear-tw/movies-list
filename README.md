@@ -1,4 +1,4 @@
-# Movie List
+#Movie List
 
 A simple web application for movie fanatic
 
